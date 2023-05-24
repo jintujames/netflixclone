@@ -1,0 +1,29 @@
+button{
+    background: green;
+    color:beige;
+}
+#para1{
+    color:crimson;
+}
+#para2{
+    color:darkorange;
+}
+.content{
+    color:cornsilk;
+    background: rgb(156, 26, 102);
+}
+div{
+    width:300px;
+    height: 200px;
+    background:cornflowerblue;
+    margin-left:20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-top: 40px;
+    border: 10px solid;
+    border-color: black;
+
+}
+.white{
+    color: #fff;
+}

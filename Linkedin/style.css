@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+   
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.nav{
+    width: 100%;
+    height:50px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav h2{
+    color: blue;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.nav h2 span{
+    background-color: blue;
+    color:white;
+    border-radius:2px ;
+}
+.btn{
+    margin-left: 50em;
+}
+.btn button{
+    padding: 7px 17px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    background-color: white;
+    color:blue;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.btn.btn1{
+    color:rgb(109,107,107);
+    border: none;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
